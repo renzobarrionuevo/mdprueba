@@ -20,3 +20,18 @@ Any node operator that has not updated for the date will be running outside of t
 
 follow as on https://twitter.com/bitprim
 www.bitprim.com
+
+#
+
+# Content for the Hard Fork on November 15
+
+**_published on August 20_**
+
+The specific features included in the November 15th upgrade are:
+
+* A new opcode called OP_CHECKDATASIG that improves the BCH scripting language to permit the validation of messages from outside the blockchain. This will enable uses such as the use of oracles and cross-chain atomic contracts.
+
+* The introduction of canonical transaction ordering. This is a technical building block that lays the foundation for massive scaling improvements in the future.
+
+* Several minor technical fixes and improvements.
+
